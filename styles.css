@@ -2,7 +2,7 @@ body {
     background-color: aquamarine;
     float: left;
     width: 90%;
-    margin: 2em 0 2em 5%;
+    margin: 2em 5%;
 
 }
 
@@ -20,6 +20,8 @@ h1 {
 
 .top_nav {
     text-align: center;
+    border: 3px blue double;
+    background-color: aqua;
     
 }
 
@@ -27,4 +29,10 @@ h1 {
     text-decoration: 0;
     font-weight: 600;
     font-size: large;
+    padding: 0 1em;
+    
+}
+
+.top_nav a:hover {
+    color:darkgrey;
 }
