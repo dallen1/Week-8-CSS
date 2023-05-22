@@ -1,0 +1,30 @@
+body {
+    background-color: aquamarine;
+    float: left;
+    width: 90%;
+    margin: 2em 0 2em 5%;
+
+}
+
+.title {
+    border: 3px blue solid;
+    text-align: center;
+    background: seashell;
+   
+}
+
+h1 {
+    color: yellow;
+    text-shadow: 3px 3px 10px red;
+}
+
+.top_nav {
+    text-align: center;
+    
+}
+
+.top_nav a {
+    text-decoration: 0;
+    font-weight: 600;
+    font-size: large;
+}
