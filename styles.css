@@ -13,7 +13,7 @@ body {
    
 }
 
-h1 {
+h1, h3 {
     color: yellow;
     text-shadow: 3px 3px 10px red;
 }
@@ -82,4 +82,24 @@ tr:hover {
 }
 .gallery img {
     width: 300px;
+}
+
+.team {
+    padding: 1em;
+}
+
+ul {
+    color:blueviolet;
+}
+
+li {
+    padding: 8px;
+}
+
+.contact_form {
+    font-weight: 600;
+}
+
+#firstName, #lastName, #comment {
+    padding: 0 2em;
 }
