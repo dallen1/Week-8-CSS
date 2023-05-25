@@ -75,3 +75,11 @@ tr:nth-child(odd) {
 tr:hover {
     background-color: bisque;
 }
+
+.gallery {
+    text-align: center;
+
+}
+.gallery img {
+    width: 300px;
+}
