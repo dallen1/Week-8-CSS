@@ -36,3 +36,42 @@ h1 {
 .top_nav a:hover {
     color:darkgrey;
 }
+
+.events {
+    text-align: center;
+  
+  
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 25%;
+    
+}
+
+th, td {
+    padding: 8px;
+    
+}
+
+th {
+    text-align: center;
+    border: none;
+}
+
+tr {
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: cadetblue;
+}
+
+tr:nth-child(odd) {
+    background-color: powderblue;
+}
+
+tr:hover {
+    background-color: bisque;
+}
